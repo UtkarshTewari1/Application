@@ -1,2 +1,2 @@
-# Application developed by developer b
+# Application developed by the developer b
 # Application developed by developer a
